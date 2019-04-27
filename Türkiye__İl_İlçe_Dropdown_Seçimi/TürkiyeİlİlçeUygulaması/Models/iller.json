@@ -1,0 +1,407 @@
+[
+  {
+    "YerID": 1,
+    "YerAdi": "\tAdana\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 2,
+    "YerAdi": "\tAdýyaman\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 3,
+    "YerAdi": "\tAfyonkarahisar\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 4,
+    "YerAdi": "\tAðrý\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 5,
+    "YerAdi": "\tAmasya\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 6,
+    "YerAdi": "\tAnkara\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 7,
+    "YerAdi": "\tAntalya\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 8,
+    "YerAdi": "\tArtvin\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 9,
+    "YerAdi": "\tAydýn\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 10,
+    "YerAdi": "\tBalýkesir\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 11,
+    "YerAdi": "\tBilecik\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 12,
+    "YerAdi": "\tBingöl\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 13,
+    "YerAdi": "\tBitlis\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 14,
+    "YerAdi": "\tBolu\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 15,
+    "YerAdi": "\tBurdur\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 16,
+    "YerAdi": "\tBursa\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 17,
+    "YerAdi": "\tÇanakkale\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 18,
+    "YerAdi": "\tÇankýrý\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 19,
+    "YerAdi": "\tÇorum\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 20,
+    "YerAdi": "\tDenizli\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 21,
+    "YerAdi": "\tDiyarbakýr\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 22,
+    "YerAdi": "\tEdirne\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 23,
+    "YerAdi": "\tElâzýð\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 24,
+    "YerAdi": "\tErzincan\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 25,
+    "YerAdi": "\tErzurum\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 26,
+    "YerAdi": "\tEskiþehir\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 27,
+    "YerAdi": "\tGaziantep\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 28,
+    "YerAdi": "\tGiresun\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 29,
+    "YerAdi": "\tGümüþhane\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 30,
+    "YerAdi": "\tHakkâri\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 31,
+    "YerAdi": "\tHatay\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 32,
+    "YerAdi": "\tIsparta\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 33,
+    "YerAdi": "\tMersin\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 34,
+    "YerAdi": "\tÝstanbul\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 35,
+    "YerAdi": "\tÝzmir\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 36,
+    "YerAdi": "\tKars\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 37,
+    "YerAdi": "\tKastamonu\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 38,
+    "YerAdi": "\tKayseri\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 39,
+    "YerAdi": "\tKýrklareli\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 40,
+    "YerAdi": "\tKýrþehir\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 41,
+    "YerAdi": "\tKocaeli\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 42,
+    "YerAdi": "\tKonya\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 43,
+    "YerAdi": "\tKütahya\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 44,
+    "YerAdi": "\tMalatya\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 45,
+    "YerAdi": "\tManisa\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 46,
+    "YerAdi": "\tKahramanmaraþ\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 47,
+    "YerAdi": "\tMardin\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 48,
+    "YerAdi": "\tMuðla\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 49,
+    "YerAdi": "\tMuþ\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 50,
+    "YerAdi": "\tNevþehir\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 51,
+    "YerAdi": "\tNiðde\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 52,
+    "YerAdi": "\tOrdu\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 53,
+    "YerAdi": "\tRize\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 54,
+    "YerAdi": "\tSakarya\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 55,
+    "YerAdi": "\tSamsun\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 56,
+    "YerAdi": "\tSiirt\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 57,
+    "YerAdi": "\tSinop\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 58,
+    "YerAdi": "\tSivas\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 59,
+    "YerAdi": "\tTekirdað\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 60,
+    "YerAdi": "\tTokat\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 61,
+    "YerAdi": "\tTrabzon\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 62,
+    "YerAdi": "\tTunceli\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 63,
+    "YerAdi": "\tÞanlýurfa\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 64,
+    "YerAdi": "\tUþak\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 65,
+    "YerAdi": "\tVan\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 66,
+    "YerAdi": "\tYozgat\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 67,
+    "YerAdi": "\tZonguldak\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 68,
+    "YerAdi": "\tAksaray\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 69,
+    "YerAdi": "\tBayburt\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 70,
+    "YerAdi": "\tKaraman\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 71,
+    "YerAdi": "\tKýrýkkale\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 72,
+    "YerAdi": "\tBatman\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 73,
+    "YerAdi": "\tÞýrnak\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 74,
+    "YerAdi": "\tBartýn\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 75,
+    "YerAdi": "\tArdahan\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 76,
+    "YerAdi": "\tIðdýr\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 77,
+    "YerAdi": "\tYalova\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 78,
+    "YerAdi": "\tKarabük\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 79,
+    "YerAdi": "\tKilis\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 80,
+    "YerAdi": "\tOsmaniye\t",
+    "SehirID": 0
+  },
+  {
+    "YerID": 81,
+    "YerAdi": "\tDüzce\t",
+    "SehirID": 0
+  }
+]

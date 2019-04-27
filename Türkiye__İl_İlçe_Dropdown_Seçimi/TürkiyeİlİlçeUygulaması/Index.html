@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv=content-type content=text/html charset="iso-8859-9">
+    <title></title>
+    <script src="Scripts/jquery-3.3.1.min.js"></script>
+    <script src="Scripts/bootstrap.min.js"></script>
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12"><h1>Türkiye İl İlçe Seçimi</h1></div>
+            <div class="col-md-3">
+                <label>İl</label>
+                <select name="il" id="il" class="form-control">
+                    <option value="">İl Seçiniz...</option>
+                </select>
+            </div>
+
+            <div class="col-md-3">
+                <label>İlçe</label>
+                <select name="ilce" id="ilce" class="form-control" disabled="disabled">
+                    <option value="">İlçe Seçiniz...</option>
+                </select>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+<!--<script src="Scripts/Custom/Il_IlceGetJson.js"></script>-->
+
+<script src="Scripts/Custom/il_ilceGetirUsingAjax.js"></script>
